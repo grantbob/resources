@@ -5,6 +5,7 @@
 - [American Radio Relay League](https://www.arrl.org/)
 - [Ham Radio University](https://hamradiouniversity.org/)
 - [Long Island CW Club](https://longislandcwclub.org/)
+- [SKCC](https://skccgroup.com/)
 
 ## Online Stores
 
@@ -13,12 +14,15 @@
 - [Ham Radio Outlet](https://www.hamradio.com/)
 - [Martin Lynch & Sons (UK)](https://www.hamradio.co.uk/)
 - [Powerwerx](https://powerwerx.com/)
+- [R&L Electronics](https://www2.randl.com/)
 - [Radioddity](https://www.radioddity.com/)
 - [Waters & Stanton (UK)](https://www.watersandtanton.com/)
 
 ## Keys
 
+- [Begali](https://www.i2rtf.com/)
 - [CW Morse](https://cwmorse.us/)
+- [Modern Morse](https://www.modernmorse.com/)
 - [Vibroplex](https://vibroplex.com/)
 
 ## Kits
@@ -28,6 +32,7 @@
 - [Dan’s Small Parts and Kits](https://www.danssmallpartsandkits.net/)
 - [Electronics DIY](https://electronics-diy.com/)
 - [Four State QRP Group](https://www.4sqrp.com/)
+- [HamGadgets](https://hamgadgets.com/)
 - [HF Signals](https://www.hfsignals.com/)
 - [Kanga (Phoenix) Kits](https://www.kanga-products.co.uk/)
 - [Midway](https://www.midwayelectronics.us/)
@@ -69,6 +74,7 @@
 - [Balun Designs (Balunsetc)](https://www.balundesigns.com/)
 - [Chameleon](https://chameleonantenna.com/)
 - [Greyline](https://greylineperformance.com/)
+- [KJ6ER Antennas Primer](https://bit.ly/KJ6ERAntennasPrimer)
 - [Pacific Antenna](https://www.qrpkits.com/pacant.html)
 - [Palomar Engineers](https://palomar-engineers.com/)
 - [Vibroplex](https://vibroplex.com/)
@@ -94,15 +100,21 @@
 - [EFHW Antenna Calculator](https://m0ukd.com/calculators/quarter-wave-vertical-antenna-calculator/)
 - [EFHW Antenna Designer](https://www.changpuak.ch/electronics/End_Fed_Half_Wave.php)
 - [Falstad Circuit Simulator](https://falstad.com/circuit/)
+- [HamDash App](https://hamdash.com/)
 - [IanJohnston_Online_Tools](https://www.ianjohnston.com/index.php/projects/54-project-014)
+- [K8ZT Presentations](http://tiny.cc/k8zt-p)
 - [LC Resonance Calculator](https://www.allaboutcircuits.com/tools/lc-resonance-calculator/)
 - [LC Filter Design Tool](https://markimicrowave.com/technical-resources/tools/lc-filter-design-tool/)
 - [MagLoop Calculator](https://miguelvaca.github.io/vk3cpu/magloop.html)
-- [Morse Code World Trainer](https://morsecode.world/international/trainer/trainer.html)
+- [Morse Code World Trainer](https://morsecode.world/international/trainer/)
+- [OpenHamClock](https://openhamclock.com/)
 - [Practical Antennas](https://practicalantennas.com/)
+- [Proppy Propagation Prediction Tool](https://soundbytes.asia/proppy/)
 - [RF Z-Matching Calculator](https://home.sandiego.edu/~ekim/e194rfs01/jwmatcher/matcher2.html)
 - [Toroid Inductance Calculator](https://toroids.info/)
 - [VSWR to Return Loss Calculator](https://www.everythingrf.com/rf-calculators/vswr-to-return-loss-calculator)
 - [Ugly Balun Calculator](https://udel.edu/~mm/ham/uglybalun/)
-- [Vband (Ham Radio Solutions)](https://vband.hfradio.org/)
+- [Ham Radio Solutions (Vband, CW Hotline)](https://hamradio.solutions/)
+- [Vail Morse](https://vailmorse.com/)
+- [Vail Adapter Interface](https://vailadapter.com/)
 - [VOACAP Coverage Analysis](https://www.voacap.com/)
